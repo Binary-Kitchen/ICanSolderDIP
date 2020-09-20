@@ -21,4 +21,4 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 ### Copyright and Authorship
 
 - Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Thomas Basler, Timo Schindler
-- CR2032 Battery Holder Footprint: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Sparkfun (https://github.com/sparkfun/SparkFun-KiCad-Libraries)
+- CR2032 battery holder footprint: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Sparkfun (https://github.com/sparkfun/SparkFun-KiCad-Libraries)
