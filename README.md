@@ -8,12 +8,12 @@ Very easy soldering kit for kids and beginners.
 
 ### Parts List
 
-| Menge | Name         | Beschreibung                       | Beschriftung/Farbcode                   |
-|-------|--------------|------------------------------------|-----------------------------------------|
-| 3     | LED1 - LED3  | LED 5mm Regenbogen                 |                                         |
-| 1     |              | Batteriehalter                     |                                         |
-| 1     |              | Buttefly Pin                       |                                         |
-| 1     |              | Platine                            |                                         |
+| Amount | Name         | Description                        |
+|--------|--------------|------------------------------------|
+| 3      | LED1 - LED3  | LED 5mm rainbow RGB                |
+| 1      |              | Battery holder                     |
+| 1      |              | Buttefly pin                       |
+| 1      |              | PCB                                |
 
 ### Manual
 You can find the manual and pictures of every step here: https://github.com/Binary-Kitchen/SolderingTutorial
@@ -21,6 +21,4 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 ### Copyright and Authorship
 
 - Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Thomas Basler, Timo Schindler
-- CR2032 Battery Holder Footprint: [[CC-BY 4.0]](https://creativecommons.org/licenses/by/4.0/) - Sparkfun (https://github.com/sparkfun/SparkFun-KiCad-Libraries)
-
-
+- CR2032 Battery Holder Footprint: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Sparkfun (https://github.com/sparkfun/SparkFun-KiCad-Libraries)
