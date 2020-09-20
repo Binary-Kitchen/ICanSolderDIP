@@ -147,4 +147,26 @@ F 3 "" H 6150 3600 50  0001 C CNN
 	1    6150 3600
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 5F677973
+P 6600 3550
+F 0 "H1" H 6700 3599 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6700 3508 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 6600 3550 50  0001 C CNN
+F 3 "~" H 6600 3550 50  0001 C CNN
+	1    6600 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5F677E3E
+P 6600 3650
+F 0 "#PWR0105" H 6600 3400 50  0001 C CNN
+F 1 "GND" H 6605 3477 50  0000 C CNN
+F 2 "" H 6600 3650 50  0001 C CNN
+F 3 "" H 6600 3650 50  0001 C CNN
+	1    6600 3650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
