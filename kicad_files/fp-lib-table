@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Batteries)(type KiCad)(uri /home/timo/Nextcloud/Workspace/ICanSolder/kicad_files/ICanSolder.pretty)(options "")(descr ""))
+  (lib (name Binary-Kitchen)(type KiCad)(uri /home/timo/Nextcloud/Workspace/ICanSolder/kicad_files/ICanSolder.pretty)(options "")(descr ""))
+)
